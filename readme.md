@@ -11,7 +11,7 @@
 </h1>
 
 <h1 align="center">
-  Skill's
+  Language's
   <p align="center">  
  </p>
 
